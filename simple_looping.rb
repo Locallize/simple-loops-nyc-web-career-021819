@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # REMEMBER: print your output to the terminal using 'puts'
 def loop_iterator(number_of_times)
   # Code your solution here using the "loop" keyword to puts out the below phrase
@@ -58,5 +57,3 @@ def times_iterator(number_of_times)
       puts phrase
     end
 end
-=======
->>>>>>> e7c7ae08a11260cba205e3dacc89dd3e168bd92c
